@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView textView = (TextView) findViewById(R.id.textView);
         textView.setText(HELLO_WORLD);
+
+        //line for empty commit
     }
 }
